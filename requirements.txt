@@ -5,3 +5,4 @@ langchain-anthropic
 tavily-python
 docker
 ollama
+python-dotenv
