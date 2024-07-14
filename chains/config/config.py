@@ -9,6 +9,8 @@ class Config:
     
     SQLITE_DB_URL = os.getenv('SQLITE_DB_URL')
     
+    OLLAMA_BASE_URL = os.getenv('OLLAMA_BASE_URL')
+    
     
     ## API KEYS
     LANGCHAIN_TRACING_V2 = os.getenv('LANGCHAIN_TRACING_V2')
